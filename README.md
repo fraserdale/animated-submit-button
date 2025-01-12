@@ -2,6 +2,10 @@
 
 A React component for creating an animated submit button with a smooth transition from submit to success state.
 
+
+https://github.com/user-attachments/assets/94b79216-5cfd-4c3b-abcf-5225450197c9
+
+
 ## Usage
 
 ```tsx
